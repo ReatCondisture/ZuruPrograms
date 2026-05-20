@@ -1,0 +1,116 @@
+/* Tam bir Linux terminali ve modern karanlık tema havası */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #0f0f0f;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #00ff66;
+    font-size: 3rem;
+    margin-bottom: 10px;
+    text-shadow: 0 0 10px rgba(0, 255, 102, 0.3);
+    transition: transform 0.3s ease;
+}
+
+h1:hover {
+    transform: scale(1.05);
+}
+
+.tagline {
+    font-style: italic;
+    color: #888;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.eng-tagline {
+    font-size: 0.95rem;
+    margin-top: -20px;
+    color: #666;
+}
+
+.divider {
+    border-top: 1px dashed #333;
+    margin: 40px 0;
+}
+
+.app-card {
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 500px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    transition: border-color 0.3s ease;
+}
+
+.app-card:hover {
+    border-color: #00ff66;
+}
+
+.app-title {
+    color: #00ffff;
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+.app-desc {
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+.app-desc-eng {
+    font-size: 0.85rem;
+    color: #aaa;
+    line-height: 1.4;
+}
+
+.badge-container {
+    margin: 15px 0;
+}
+
+.license-badge {
+    display: inline-block;
+    background-color: #222;
+    color: #ffcc00;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    border: 1px solid #ffcc00;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #00ff66;
+    color: #000;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #00cc52;
+    box-shadow: 0 0 15px rgba(0, 255, 102, 0.5);
+    transform: translateY(-2px);
+}
+
+footer {
+    margin-top: 50px;
+    color: #555;
+    font-size: 0.9rem;
+}
