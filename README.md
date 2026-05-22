@@ -22,7 +22,7 @@ Sketchware Pro kullanılarak geliştirilen, Android cihazlar için jilet gibi h�
 *   **Geliştirme Ortamı:** Sketchware Pro & Java Mantığı
 *   **Lisans:** GNU GPL v3
 
-📦 **[https://reatcondisture.github.io/ZuruPrograms](#)**
+📦 https://reatcondisture.github.io/ZuruPrograms/ZuruCalculator.apk
 
 ---
 
