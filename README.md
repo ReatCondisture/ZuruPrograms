@@ -41,7 +41,7 @@ ZuruPrograms topluluk desteğine her zaman açıktır! Kodda bir hata mı buldun
 ---
 
 ## 🌐 İletişim ve Takip
-*   🌍 **Resmi Web Sitemiz:** [zuruprograms.github.io](https://zuruprograms.github.io)
+*   🌍 **Resmi Web Sitemiz:** https://reatcondisture.github.io/ZuruPrograms
 *   💻 **Geliştirici:** Mustafa / ZuruPrograms Team
 
 ---
@@ -71,7 +71,7 @@ Our first official calculator app developed using Sketchware Pro, built to run s
 *   **Development Environment:** Sketchware Pro & Java Logic
 *   **License:** GNU GPL v3
 
-📦 **[Download Application (APK)](#)**
+📦 https://reatcondisture.github.io/ZuruPrograms/ZuruCalculator.apk
 
 ---
 
@@ -90,7 +90,7 @@ ZuruPrograms is always open to community support! Found a bug or want to introdu
 ---
 
 ## 🌐 Contact & Follow
-*   🌍 **Official Website:** [zuruprograms.github.io](https://zuruprograms.github.io)
+*   🌍 **Official Website:** https://reatcondisture.github.io/ZuruPrograms
 *   💻 **Developer:** Mustafa / ZuruPrograms Team
 
 ---
