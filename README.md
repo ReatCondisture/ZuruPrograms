@@ -22,7 +22,7 @@ Sketchware Pro kullanılarak geliştirilen, Android cihazlar için jilet gibi h�
 *   **Geliştirme Ortamı:** Sketchware Pro & Java Mantığı
 *   **Lisans:** GNU GPL v3
 
-📦 **[Uygulamayı İndir (APK)](#)**
+📦 **[https://reatcondisture.github.io/ZuruPrograms](#)**
 
 ---
 
